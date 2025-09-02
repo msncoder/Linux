@@ -1,0 +1,5 @@
+pwd === present working directory
+ls === list of directories
+clear
+whoami
+ls -l
