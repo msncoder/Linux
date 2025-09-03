@@ -6,4 +6,16 @@ ls -l
 sodu === switch to root user
 cd /etc == all configuration files
 aircrack-ng --help
-nmap
+nmap === network information
+man nmap === manual guide for nmap
+
+whereis → command/program ka path batata hai.
+
+aircrack-ng → WiFi security tool (password cracking, auditing).
+
+whereis aircrack-ng → batata hai ke aircrack-ng tumhare system mai kahan install hai.
+
+which aircrack-ng === batata hy kahan located hy
+
+echo $PATH
+
