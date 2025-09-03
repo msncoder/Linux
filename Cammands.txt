@@ -3,3 +3,7 @@ ls === list of directories
 clear
 whoami
 ls -l
+sodu === switch to root user
+cd /etc == all configuration files
+aircrack-ng --help
+nmap
